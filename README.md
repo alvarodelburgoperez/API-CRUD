@@ -88,18 +88,17 @@ y lo he ejecutado desde la ruta:
 
 Aquí hay algunas imagenes de las pruebas:
 
-###Prueba unitaria
+<p align="center">Prueba unitaria</p>
 <p align="center">
   <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba unitaria bien.png" alt="Imagen de prueba unitaria" />
 </p>
 
-
-###Prueba de integración
+<p align="center">Prueba de integración</p>
 <p align="center">
   <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba integracion.png" alt="Imagen de prueba de integración" />
 </p>
 
-###Todas las pruebas
+<p align="center">Todas las pruebas</p>
 <p align="center">
   <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba seguridad.png" alt="Imagen de prueba de seguridad" />
 </p>
