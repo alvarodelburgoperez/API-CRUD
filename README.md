@@ -54,17 +54,23 @@ estando en esta ruta:
 /Escritorio/MONITORIZACION/API-CRUD/entorno_api/pruebas
 ```
 
-Para realizar esta prueba es necesario tener en ejecución la aplicación en una terminal y ejecutar el comando anterirormente visto en otra terminal diferente. Al abrir la dirección de ese comando se nos abre una ventana en el navegador de Locust donde podremos elegir el número de usuarios simultáneos, etc
+<p align="center">
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/locustfile_comando.png" alt="Imagen de comando de Locust" />
+</p>
+
+
+Para realizar esta prueba es necesario tener en ejecución la aplicación en una terminal y ejecutar el comando anterirormente visto en otra terminal diferente.
+Al abrir la dirección de ese comando (http://0.0.0.0:8089/) se nos abre una ventana en el navegador de Locust donde podremos elegir el número de usuarios simultáneos, etc
 
 <p align="center">
-  <img width='60%' src="" alt="Imagen configuración en Locust" />
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/locustfile_conf.png" alt="Imagen configuración en Locust" />
 </p>
 
 
 Una vez tenemos todos los parámetros ajustados se nos muestra esto.
 
 <p align="center">
-  <img width='60%' src="" alt="Imagen de rendimiento en Locust" />
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/locustfile.png" alt="Imagen de rendimiento en Locust" />
 </p>
 
 
@@ -82,18 +88,21 @@ y lo he ejecutado desde la ruta:
 
 Aquí hay algunas imagenes de las pruebas:
 
+###Prueba unitaria
 <p align="center">
-  <img width='60%' src="" alt="Imagen de rendimiento en Locust" />
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba unitaria bien.png" alt="Imagen de prueba unitaria" />
 </p>
 
+
+###Prueba de integración
 <p align="center">
-  <img width='60%' src="" alt="Imagen de rendimiento en Locust" />
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba integracion.png" alt="Imagen de prueba de integración" />
 </p>
 
+###Todas las pruebas
 <p align="center">
-  <img width='60%' src="" alt="Imagen de rendimiento en Locust" />
+  <img width='60%' src="https://github.com/alvarodelburgoperez/API-CRUD/blob/main/assets/prueba seguridad.png" alt="Imagen de prueba de seguridad" />
 </p>
-
 
 
 
